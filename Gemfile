@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-
+# I added this line because an message from the command line said to declare what type of Ruby I am running
+ruby '2.1.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.2'
 
